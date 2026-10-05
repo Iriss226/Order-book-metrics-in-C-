@@ -1,0 +1,12 @@
+
+# arena C++ client build tree
+*.o
+*.out
+.DS_Store
+.env
+_*
+build/
+hft/cpp_client/build/
+report.json
+scratch/
+tail_fixed*
